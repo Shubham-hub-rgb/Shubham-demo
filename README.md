@@ -1,4 +1,4 @@
 # Shubham-demo
 This is my first Git repository.
 <br>
-Author - Shubham Singh
+Author - Shubham (demo)
